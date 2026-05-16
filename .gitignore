@@ -1,0 +1,10 @@
+.DS_Store
+.idea/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+embedded_images/
+pdf_page_images/
+input_documents/.DS_Store
+input_documents/batch_outputs.zip
+*.zip
